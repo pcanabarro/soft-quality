@@ -41,6 +41,9 @@ Crie um arquivo `.env` na raiz do projeto com suas credenciais de acesso. Exempl
 ```
 USERNAME=seu_usuario
 PASSWORD=sua_senha
+LOGIN_URL = "https://roadmaphomo.multidadosti.com.br/login.php?manual=1&lo=1"
+HOME_URL = "https://roadmaphomo.multidadosti.com.br/?display=portal&m=servicedesk&d=listarOcorrencias/views"
+CREATE_TICKET_URL="https://roadmaphomo.multidadosti.com.br/?display=portal&m=servicedesk/ocorrencias&a=oco_incluir"
 ```
 
 ---
