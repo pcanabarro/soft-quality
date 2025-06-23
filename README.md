@@ -29,7 +29,7 @@ venv\Scripts\activate     # Windows
 
 3. Instale as dependências necessárias:
 ```bash
-pip install playwright
+pip install -r requeriments.txt
 playwright install
 ```
 
